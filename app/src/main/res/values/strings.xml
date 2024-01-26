@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Test8</string>
+    <string name="amanda_rachel">Amanda Rachel</string>
+    <string name="dashboard">dashboard</string>
+    <string name="test_8">Test 8</string>
+    <string name="empty_option">Empty Option</string>
+    <string name="empty_text">Empty Text</string>
+    <string name="personal">Personal</string>
+</resources>
